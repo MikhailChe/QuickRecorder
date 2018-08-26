@@ -1,4 +1,4 @@
-#Sound Recorder
+# Sound Recorder
 
 It's a pretty stupid thing, it just records microphone and mixers (speaker output) into two independent files.
 
